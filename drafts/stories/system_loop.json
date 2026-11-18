@@ -1,0 +1,1947 @@
+{
+ "series": "ระบบย้อนเวลา 99 ครั้ง",
+ "style": "anime style, detailed fantasy background, cinematic lighting, masterpiece, high score, great score, absurdres",
+ "characters": {
+  "ton": {
+   "look": "19-year-old Thai delivery rider transported to a fantasy world; skinny, messy black hair, tired kind eyes, always wears his oversized grey hoodie",
+   "tag": "1boy, solo, 19 years old, messy black hair, slim, oversized grey hoodie, black pants"
+  },
+  "lin": {
+   "look": "18-year-old apprentice priestess, short silver hair, blue eyes, white and blue robe, wooden staff with a blue crystal",
+   "tag": "1girl, solo, 18 years old, short silver hair, blue eyes, white and blue priestess robe"
+  },
+  "khram": {
+   "look": "retired swordsman, looks 60, long grey hair in a ponytail, black eyepatch over the left eye, dark blue long coat, katana",
+   "tag": "1boy, solo, old man, grey hair ponytail, black eyepatch, dark blue long coat"
+  },
+  "demon": {
+   "look": "the Demon King: black full plate armor, horned helmet hiding the face, tattered red cape, glowing red eyes",
+   "tag": "demon king, black full plate armor, horned helmet, red cape, glowing red eyes"
+  },
+  "future_ton": {
+   "look": "Ton after 99 deaths: adult man about 30, messy black hair, long scar across the face, glowing red eyes, black plate armor, tattered red cape",
+   "tag": "1boy, solo, adult man, messy black hair, long scar across face, red eyes, black plate armor, red cape"
+  }
+ },
+ "parts": [
+  {
+   "part": 1,
+   "title": "เลเวลหนึ่ง",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ถ้าคุณตายแล้วเริ่มใหม่ได้ เก้าสิบเก้าครั้ง คุณจะใช้มันยังไง",
+     "image_prompt": "glowing blue holographic status window floating in the air, the number 99, pitch black background",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "ต้น ไรเดอร์ส่งอาหารวัยสิบเก้า ขี่รถฝ่าฝนทุกคืน เพื่อหาเงินจ่ายค่าเทอม",
+     "image_prompt": "riding a delivery motorbike in heavy rain at night, city lights, food box on the back",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 3,
+     "narration": "คืนนั้น ไฟหน้ารถบรรทุกสาดเข้าตา แล้วทุกอย่างก็มืดลง",
+     "image_prompt": "blinding truck headlights on a rainy night street, no people",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 4,
+     "narration": "พอลืมตาขึ้นมาอีกครั้ง เขานอนอยู่กลางป่าที่ไม่เคยเห็นมาก่อน",
+     "image_prompt": "lying on the grass, eyes opening, fantasy forest with giant glowing trees",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 5,
+     "narration": "ต้นไม้สูงเท่าตึก และบนฟ้า มีดวงจันทร์สองดวง",
+     "image_prompt": "giant fantasy forest at night, two moons in the sky, scenery, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 6,
+     "narration": "แล้วหน้าต่างสีฟ้าก็เด้งขึ้นตรงหน้า พร้อมเสียงที่ดังอยู่ในหัว",
+     "image_prompt": "surprised, stepping back, glowing blue holographic status window floating in the air in front of him, forest",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 7,
+     "narration": "ยินดีต้อนรับผู้ถูกเลือก ระบบช่วยเหลือ เริ่มทำงานแล้ว",
+     "image_prompt": "close-up of a glowing blue holographic status window floating in the air with lines of text, sparkles, forest background",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 8,
+     "narration": "เขากดดูค่าสถานะ ทุกช่องเขียนเหมือนกันหมด คือเลขหนึ่ง",
+     "image_prompt": "disappointed face, looking at a glowing blue holographic status window floating in the air, forest at night",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 9,
+     "narration": "ภารกิจแรก เอาชีวิตรอดให้ได้หนึ่งคืน",
+     "image_prompt": "nervous, reading a glowing blue holographic status window floating in the air, dark forest",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 10,
+     "narration": "ฟังดูง่าย จนกระทั่งพุ่มไม้ข้างหลังเริ่มขยับ",
+     "image_prompt": "looking back over his shoulder, a rustling bush in a dark forest",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 11,
+     "narration": "สไลม์สีเขียวตัวเท่าลูกบอล กระโดดออกมา",
+     "image_prompt": "a small green slime monster with big cute eyes and a smile, jelly body, hopping out of a bush, forest at night, no humans",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 12,
+     "narration": "ต้นหัวเราะ ก่อนจะคว้ากิ่งไม้ฟาดมันเต็มแรง",
+     "image_prompt": "laughing, swinging a wooden stick at a small green slime monster with cute eyes, forest",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 13,
+     "narration": "แต่กิ่งไม้ กลับละลายหายไปในตัวมัน",
+     "image_prompt": "shocked face, holding a melted broken stick, small green slime monster in front of him, forest",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 14,
+     "narration": "วินาทีต่อมา สไลม์ก็กระโจนใส่หน้าเขา",
+     "image_prompt": "a small green slime monster with angry eyes leaping toward the viewer, dramatic, forest at night, no humans",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 15,
+     "narration": "ทุกอย่างดับลง อีกครั้ง",
+     "image_prompt": "pitch black darkness with a faint blue glow in the center, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 16,
+     "narration": "แล้วเสียงของระบบ ก็ดังขึ้นในความมืด",
+     "image_prompt": "a glowing blue holographic status window floating in the air glowing alone in total darkness",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 17,
+     "narration": "ผู้ใช้เสียชีวิต กำลังย้อนเวลา จำนวนครั้งที่เหลือ เก้าสิบแปด",
+     "image_prompt": "a glowing blue holographic status window floating in the air showing the number 98, rewinding clock symbols, darkness",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 18,
+     "narration": "ต้นสะดุ้งตื่น ป่าเดิม คืนเดิม เขาตายไปแล้วจริงๆ หนึ่งครั้ง ติดตามตอนต่อไป",
+     "image_prompt": "waking up gasping, sitting up on the grass, sweating, fantasy forest at night, two moons",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "title": "ตายเพื่อเรียนรู้",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ตอนที่แล้ว ต้นถูกสไลม์ฆ่าตาย แล้วย้อนกลับมาเริ่มใหม่",
+     "image_prompt": "sitting on the grass holding his head, fantasy forest at night",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "ครั้งนี้เขาไม่สู้ แต่วิ่งหนีไปทางเสียงน้ำ",
+     "image_prompt": "running through a fantasy forest at night, motion blur",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 3,
+     "narration": "สไลม์ตามมาถึงริมลำธาร แล้วก็หยุด มันกลัวน้ำ",
+     "image_prompt": "a green slime stopping at the edge of a stream, forest at night, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 4,
+     "narration": "ต้นยิ้มออกเป็นครั้งแรก ความตายสอนอะไรเขาบางอย่าง",
+     "image_prompt": "smiling, standing in a shallow stream, moonlight",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 5,
+     "narration": "ภารกิจสำเร็จ ได้รับทักษะ จดจำความตาย",
+     "image_prompt": "a glowing blue holographic status window floating in the air with a golden reward icon, sparkles, night forest",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 6,
+     "narration": "ทุกครั้งที่ตาย เขาจะจำได้ ว่าตายเพราะอะไร",
+     "image_prompt": "looking at his glowing blue palm, determined, night",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 7,
+     "narration": "เช้าวันต่อมา เขาเดินตามลำธาร จนเจอกำแพงเมืองหินสูงลิบ",
+     "image_prompt": "looking up at huge stone city walls and gate at dawn, fantasy city",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 8,
+     "narration": "หน้าประตูเมือง หญิงสาวผมสีเงิน กำลังรักษาทหารที่บาดเจ็บ",
+     "image_prompt": "kneeling, healing an injured soldier with glowing magic, city gate",
+     "characters": [
+      "lin"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 9,
+     "narration": "เธอชื่อลิน นักบวชฝึกหัด ที่ยอมพาคนแปลกหน้าเข้าเมือง",
+     "image_prompt": "smiling kindly, reaching out a hand, city gate in the background",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 10,
+     "narration": "ลินพาเขาไปที่กิลด์นักผจญภัย เพื่อลงทะเบียน",
+     "image_prompt": "busy fantasy adventurers guild hall interior, wooden tables, quest board, warm light, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 11,
+     "narration": "ทดสอบพลังด้วยการแตะลูกแก้ว แต่ลูกแก้วไม่เรืองแสงเลยสักนิด",
+     "image_prompt": "touching a dark crystal ball on a counter, nervous, guild hall",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 12,
+     "narration": "ทั้งกิลด์หัวเราะลั่น เลเวลหนึ่ง ค่าสถานะหนึ่ง อ่อนที่สุดเท่าที่เคยมีมา",
+     "image_prompt": "a crowd of fantasy adventurers laughing and pointing, guild tavern",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 13,
+     "narration": "ต้นกำหมัดแน่น แต่ลินกลับก้าวมายืนข้างเขา",
+     "image_prompt": "standing protectively, serious face, guild hall, holding a staff",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 14,
+     "narration": "เธอบอกว่า อ่อนวันนี้ ไม่ได้แปลว่าจะอ่อนตลอดไป",
+     "image_prompt": "close-up, gentle smile, warm light",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 15,
+     "narration": "จากมุมมืดของกิลด์ มีชายแก่ตาเดียว นั่งจ้องเขาอยู่",
+     "image_prompt": "sitting in a dark corner of a tavern, staring, katana leaning on the table",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 16,
+     "narration": "ชายคนนั้นลุกขึ้น เดินมาหยุดตรงหน้าต้น",
+     "image_prompt": "walking toward the viewer in a tavern, serious",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 17,
+     "narration": "แล้วกระซิบว่า เจ้ามีกลิ่นเหมือนข้า เมื่อร้อยปีก่อน",
+     "image_prompt": "close-up, whispering, mysterious smile, dim light",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 18,
+     "narration": "เขาหมายความว่ายังไง ติดตามตอนต่อไป",
+     "image_prompt": "confused face, a faint glowing blue holographic status window floating in the air behind him, tavern",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "title": "อาจารย์ตาเดียว",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ตอนที่แล้ว ชายตาเดียวบอกว่า ต้นมีกลิ่นเหมือนเขาเมื่อร้อยปีก่อน",
+     "image_prompt": "sitting at a tavern table, katana on the table, mysterious",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "ชายคนนั้นชื่อคราม นักดาบเกษียณ ที่ไม่มีใครรู้อดีต",
+     "image_prompt": "sitting cross-legged with a katana on his knees, old dojo",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 3,
+     "narration": "ครามเสนอจะสอนดาบให้ แลกกับสัญญาข้อเดียว",
+     "image_prompt": "holding out a wooden practice sword, courtyard",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 4,
+     "narration": "ห้ามบอกใคร ว่าเจ้าเห็นหน้าต่างสีฟ้า",
+     "image_prompt": "close-up, very serious face, finger on lips",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 5,
+     "narration": "ต้นตกใจ เพราะเขาไม่เคยบอกใครเรื่องระบบเลย",
+     "image_prompt": "shocked face, a glowing blue holographic status window floating in the air beside him",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 6,
+     "narration": "การฝึกเริ่มตอนตีห้า ทุกวัน ไม่มีวันหยุด",
+     "image_prompt": "swinging a wooden sword at dawn, training courtyard, sweat",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 7,
+     "narration": "เขาถูกฟาดจนล้ม นับร้อยครั้ง",
+     "image_prompt": "knocked down on a dirt training ground, bruised, holding a wooden sword",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 8,
+     "narration": "แต่ทุกครั้งที่ล้ม ทักษะจดจำความตายก็ทำงาน",
+     "image_prompt": "lying on the ground, eyes glowing blue, determined",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 9,
+     "narration": "เขาเริ่มมองเห็นดาบของอาจารย์ ก่อนที่มันจะมาถึง",
+     "image_prompt": "slashing with a wooden sword, dynamic pose, speed lines, courtyard",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 10,
+     "narration": "สามสิบวันผ่านไป เลเวลของต้นขึ้นเป็นห้า",
+     "image_prompt": "a glowing blue holographic status window floating in the air showing level up to 5, golden light",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 11,
+     "narration": "ลินแวะมาส่งข้าวทุกเย็น แล้วนั่งดูเขาฝึกจนมืด",
+     "image_prompt": "sitting on a wooden fence at sunset holding a food basket, smiling",
+     "characters": [
+      "lin"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 12,
+     "narration": "คืนหนึ่ง ระบบเด้งภารกิจใหม่ ที่ไม่เคยมีมาก่อน",
+     "image_prompt": "glowing red holographic window floating in a dark bedroom at night, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 13,
+     "narration": "ภารกิจลับ หน้าต่างครั้งนี้ เป็นสีแดง",
+     "image_prompt": "close-up of a glowing red holographic warning window with text",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 14,
+     "narration": "จงอยู่ห่างจากชายตาเดียว เขาต้องการขโมยพลังของเจ้า",
+     "image_prompt": "reading a glowing red window in a dark room, worried face",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 15,
+     "narration": "ต้นมองออกไปนอกหน้าต่าง",
+     "image_prompt": "looking out of a window at night, moonlight on face",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 16,
+     "narration": "ครามยืนอยู่กลางลานฝึก ใต้แสงจันทร์สองดวง",
+     "image_prompt": "standing alone in a moonlit courtyard, two moons, long coat flowing",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 17,
+     "narration": "เหมือนกำลังรอใครบางคน",
+     "image_prompt": "silhouette looking up at the night sky, wind, katana at his side",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 18,
+     "narration": "ระบบที่ช่วยเขามาตลอด กับอาจารย์ที่สอนเขา ใครกันแน่ที่โกหก ติดตามตอนต่อไป",
+     "image_prompt": "face lit half blue and half red, conflicted, dark room",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "title": "ถ้ำก็อบลิน",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ตอนที่แล้ว ระบบเตือนให้อยู่ห่างจากคราม แต่ต้นยังไม่รู้ว่าจะเชื่อใคร",
+     "image_prompt": "face lit half blue and half red, conflicted, dark room",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "เช้าวันนั้น กิลด์ประกาศภารกิจ กำจัดก็อบลินในถ้ำทางเหนือ",
+     "image_prompt": "quest notice board covered in paper notices, guild hall, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 3,
+     "narration": "ลินอาสาไปด้วย เธอบอกว่านักบวช ต้องอยู่ข้างหลังนักดาบเสมอ",
+     "image_prompt": "smiling, holding a staff, walking on a sunny dirt road",
+     "characters": [
+      "lin"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 4,
+     "narration": "ปากถ้ำมืดสนิท มีกลิ่นคาวลอยออกมา",
+     "image_prompt": "dark cave entrance in a rocky mountain, eerie mist, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 5,
+     "narration": "ยังไม่ทันก้าวเท้าเข้าไป ลูกธนูก็พุ่งทะลุอกเขา",
+     "image_prompt": "hit by an arrow in the chest, falling backward, cave entrance",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 6,
+     "narration": "ย้อนเวลา จำนวนครั้งที่เหลือ เก้าสิบเจ็ด",
+     "image_prompt": "a glowing blue holographic status window floating in the air showing the number 97, darkness",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 7,
+     "narration": "ครั้งที่สอง เขาหลบธนูได้ แต่ตกลงไปในหลุมกับดัก",
+     "image_prompt": "falling into a spiked pit trap inside a dark cave",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 8,
+     "narration": "ครั้งที่สาม ครั้งที่สี่ ครั้งที่ห้า เขาตายซ้ำแล้วซ้ำอีก",
+     "image_prompt": "lying defeated on a cave floor, torch light, faint blue glow",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 9,
+     "narration": "แต่ทุกความตาย คือแผนที่ที่ชัดขึ้นทีละนิด",
+     "image_prompt": "kneeling, drawing a map in the dirt with a stick, torch light",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 10,
+     "narration": "ครั้งที่แปด เขารู้ทุกกับดัก รู้ทุกมุมที่ก็อบลินซ่อนอยู่",
+     "image_prompt": "sneaking carefully past traps in a dark cave, determined",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 11,
+     "narration": "ต้นจุดไฟเผากองฟาง ควันลอยเข้าไปเต็มถ้ำ",
+     "image_prompt": "burning hay pile, thick smoke flowing into a cave entrance, no humans",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 12,
+     "narration": "ก็อบลินแตกตื่น วิ่งออกมาทีละตัว ตรงจุดที่เขารออยู่",
+     "image_prompt": "green goblins running out of a smoky cave in panic, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 13,
+     "narration": "ไม่ใช่เพราะเก่ง แต่เพราะเขาตายมาแล้วเจ็ดครั้ง",
+     "image_prompt": "standing with a wooden sword, defeated goblins on the ground, smoke",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 14,
+     "narration": "เลเวลอัป เลเวลเก้า",
+     "image_prompt": "a glowing blue holographic status window floating in the air showing level up to 9, golden light",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 15,
+     "narration": "ลินวิ่งเข้ามากอด แล้วหัวเราะทั้งน้ำตา",
+     "image_prompt": "running with open arms, happy tears, cave entrance at sunset",
+     "characters": [
+      "lin"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 16,
+     "narration": "แต่ในพุ่มไม้ไกลออกไป ลูกธนูดอกสุดท้าย กำลังเล็งมาที่เธอ",
+     "image_prompt": "a drawn bow with an arrow aimed from dark bushes, sunset, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 17,
+     "narration": "ต้นตะโกนสุดเสียง แต่ช้าไปแค่ครึ่งวินาที",
+     "image_prompt": "shouting, reaching out his hand, horrified, sunset",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 18,
+     "narration": "ลินล้มลงในอ้อมแขนของเขา ติดตามตอนต่อไป",
+     "image_prompt": "collapsed with eyes closed, held in someone's arms, sunset",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "title": "ราคาของการย้อนเวลา",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ตอนที่แล้ว ลินถูกธนูดอกสุดท้ายยิงตาย ต่อหน้าต่อตาต้น",
+     "image_prompt": "lying still on the grass, eyes closed, sunset, sad",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "ต้นทำสิ่งเดียวที่ทำได้ เขาเดินเข้าหาก็อบลินมือเปล่า",
+     "image_prompt": "walking empty-handed toward goblins, resigned face, sunset",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 3,
+     "narration": "ย้อนเวลา จำนวนครั้งที่เหลือ เก้าสิบห้า",
+     "image_prompt": "a glowing blue holographic status window floating in the air showing the number 95, darkness",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 4,
+     "narration": "รอบนี้ เขาจัดการพลธนูในพุ่มไม้ ก่อนใครจะทันเห็น",
+     "image_prompt": "leaping into bushes swinging a wooden sword, dynamic pose",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 5,
+     "narration": "ลินยังยืนยิ้มอยู่ตรงนั้น โดยไม่รู้เลยว่าเคยตายไปแล้ว",
+     "image_prompt": "smiling innocently, holding a staff, sunset",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 6,
+     "narration": "คืนนั้นในโรงเตี๊ยม ต้นนึกถึงบ้านเป็นครั้งแรกในรอบเดือน",
+     "image_prompt": "lying on an inn bed, staring at the ceiling, candle light",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 7,
+     "narration": "เขาอยากนึกถึงหน้าแม่ ที่รอเขากลับบ้านทุกคืน",
+     "image_prompt": "a small kitchen at night, a covered plate of food on the table, warm light, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 8,
+     "narration": "แต่ภาพในหัว กลับว่างเปล่า",
+     "image_prompt": "a faded blurry silhouette of a woman dissolving into white light",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 9,
+     "narration": "เขาจำเสียงแม่ได้ จำกลิ่นกับข้าวได้ แต่จำหน้าไม่ได้เลย",
+     "image_prompt": "holding his head in shock, dark room, candle",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 10,
+     "narration": "ต้นเปิดหน้าต่างระบบ แล้วไล่อ่านทุกบรรทัด",
+     "image_prompt": "reading a glowing blue holographic status window floating in the air with many lines of text, candle light",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 11,
+     "narration": "ที่มุมล่างสุด มีตัวหนังสือเล็กจนแทบมองไม่เห็น",
+     "image_prompt": "close-up of the bottom corner of a glowing blue holographic status window floating in the air, tiny text",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 12,
+     "narration": "ทุกการย้อนเวลา จะใช้ความทรงจำหนึ่งอย่างเป็นค่าตอบแทน",
+     "image_prompt": "a glowing blue holographic status window floating in the air with faint red text glowing ominously, darkness",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 13,
+     "narration": "เขาตายไปแล้วห้าครั้ง แปลว่าเสียอะไรไปแล้วห้าอย่าง",
+     "image_prompt": "counting on his fingers, horrified, candle light",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 14,
+     "narration": "ระบบไม่เคยโกหก แต่มันก็ไม่เคยบอกความจริงทั้งหมด",
+     "image_prompt": "a glowing blue holographic status window floating in the air floating in cold blue light, empty dark room",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 15,
+     "narration": "เช้าวันต่อมา ครามรออยู่ที่ลานฝึก ตั้งแต่ฟ้ายังไม่สาง",
+     "image_prompt": "standing in a misty training courtyard at dawn, waiting",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 16,
+     "narration": "เขาถามคำเดียว เจ้าจำหน้าแม่ได้อยู่ไหม",
+     "image_prompt": "close-up, serious face, misty dawn",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 17,
+     "narration": "ต้นตัวแข็งทื่อ เพราะเขาไม่เคยเล่าเรื่องนี้ให้ใครฟัง",
+     "image_prompt": "frozen in shock, wide eyes, misty dawn",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 18,
+     "narration": "ครามรู้ได้ยังไง ติดตามตอนต่อไป",
+     "image_prompt": "turning away, long coat flowing, mist",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "title": "ผู้กล้าเมื่อร้อยปีก่อน",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ตอนที่แล้ว ครามรู้ว่าต้นกำลังลืมหน้าแม่ ทั้งที่ต้นไม่เคยบอกใคร",
+     "image_prompt": "standing in a misty courtyard at dawn, mysterious",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "ครามพาต้นขึ้นไปบนหอระฆังเก่า กลางเมือง",
+     "image_prompt": "old bell tower at night overlooking a fantasy city, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 3,
+     "narration": "เขาเล่าว่า เมื่อร้อยปีก่อน มีผู้กล้าคนหนึ่งที่ไม่เคยตาย",
+     "image_prompt": "sitting on a bell tower ledge telling a story, night, city lights",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 4,
+     "narration": "ทุกสงครามที่ผู้กล้าไป ฝ่ายเขาชนะเสมอ",
+     "image_prompt": "silhouette of a lone swordsman on a battlefield with banners, sunset",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 5,
+     "narration": "ผู้คนเรียกเขาว่า ชายผู้มองเห็นอนาคต",
+     "image_prompt": "crowd cheering in a fantasy city square, flower petals, festival",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 6,
+     "narration": "แต่ยิ่งชนะ เขายิ่งเงียบ ยิ่งจำชื่อเพื่อนไม่ได้",
+     "image_prompt": "lone swordsman sitting alone in an empty tavern, back view, melancholy",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 7,
+     "narration": "จนวันหนึ่ง ผู้กล้าคนนั้นก็หายไป ไม่มีใครรู้ว่าไปไหน",
+     "image_prompt": "empty throne room with a sword stuck in the floor, dust, light rays, no humans",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 8,
+     "narration": "หนึ่งปีต่อมา จอมมารก็ปรากฏตัวขึ้นทางทิศเหนือ",
+     "image_prompt": "standing on a black castle balcony, red sky, lightning",
+     "characters": [
+      "demon"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 9,
+     "narration": "ต้นถามว่า แล้วผู้กล้าคนนั้น เกี่ยวอะไรกับข้า",
+     "image_prompt": "asking seriously, sitting on a bell tower at night",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 10,
+     "narration": "ครามไม่ตอบ เขาเอื้อมมือไปที่ผ้าปิดตา",
+     "image_prompt": "reaching for his eyepatch, night, moonlight",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 11,
+     "narration": "ผ้าสีดำ ค่อยๆ เลื่อนลง",
+     "image_prompt": "close-up of a hand slowly lifting a black eyepatch, moonlight",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 12,
+     "narration": "ตาข้างนั้น ไม่ได้บอด",
+     "image_prompt": "eyepatch removed, left eye closed, moonlight",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 13,
+     "narration": "มันลืมขึ้น แล้วเรืองแสงสีฟ้า",
+     "image_prompt": "extreme close-up of a glowing blue eye with a holographic ring in the iris",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 14,
+     "narration": "ในตาดำ มีวงแหวนหมุนอยู่ช้าๆ",
+     "image_prompt": "extreme close-up of an iris with a rotating blue digital ring, sci-fi interface",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 15,
+     "narration": "วงแหวนแบบเดียวกับ หน้าต่างระบบของต้น",
+     "image_prompt": "a glowing blue holographic status window floating in the air with the same blue ring symbol, night",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 16,
+     "narration": "ระบบในหัวต้น เงียบไปเป็นครั้งแรก",
+     "image_prompt": "holding his head, a glowing blue holographic status window floating in the air flickering and glitching beside him",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 17,
+     "narration": "ครามกระซิบ ข้าเคยเห็นเลขเก้าสิบเก้า เหมือนเจ้า",
+     "image_prompt": "whispering, left eye glowing blue, night",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 18,
+     "narration": "อาจารย์ของเขา คือผู้กล้าคนนั้นหรือเปล่า ติดตามตอนต่อไป",
+     "image_prompt": "shocked face, wind in his hair, night city below",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    }
+   ]
+  },
+  {
+   "part": 7,
+   "title": "อาจารย์คือผู้ใช้คนก่อน",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ตอนที่แล้ว ตาของครามมีวงแหวนสีฟ้า แบบเดียวกับระบบของต้น",
+     "image_prompt": "left eye glowing blue, night",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "ครามยอมรับ เขาคือผู้ใช้ระบบคนก่อน เมื่อร้อยปีที่แล้ว",
+     "image_prompt": "sitting on a bell tower, sad confession, night",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 3,
+     "narration": "ตอนที่รู้ความจริง เขาเหลือการย้อนเวลาแค่สามครั้ง",
+     "image_prompt": "a cracked glowing blue holographic status window floating in the air showing the number 3",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 4,
+     "narration": "เขาจึงควักตาข้างที่ระบบฝังอยู่ทิ้ง เพื่อตัดขาดจากมัน",
+     "image_prompt": "dramatic silhouette of a man clutching his face, blue light bursting, sepia flashback",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 5,
+     "narration": "ระบบตาย แต่เขาต้องแบกร่างที่ไม่แก่ ไม่ตาย มาร้อยปี",
+     "image_prompt": "walking alone on a road under falling autumn leaves",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 6,
+     "narration": "ทันใดนั้น หน้าต่างสีแดงก็เด้งขึ้นตรงหน้าต้น",
+     "image_prompt": "a glowing red holographic warning window floating in the air flashing, night",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 7,
+     "narration": "อย่าเชื่อเขา เขาต้องการขโมยระบบกลับคืนไป",
+     "image_prompt": "close-up of a glowing red holographic warning window floating in the air with glitching text",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 8,
+     "narration": "ต้นถอยหลังไปหนึ่งก้าว โดยไม่รู้ตัว",
+     "image_prompt": "stepping back, conflicted, red light on his face",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 9,
+     "narration": "ก่อนที่ใครจะพูดต่อ ระฆังเตือนภัยก็ดังขึ้นทั่วเมือง",
+     "image_prompt": "a huge bell swinging violently in a bell tower, night, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 10,
+     "narration": "กองทัพมารนับพัน บุกทะลุกำแพงเมือง",
+     "image_prompt": "demon army breaking through city walls, fire, night, no humans",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 11,
+     "narration": "ครามชักดาบ แล้วกระโดดลงจากหอระฆัง",
+     "image_prompt": "leaping down from a tower with a katana drawn, night, fire below",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 12,
+     "narration": "เขาฟันฝ่าศัตรู ทีละสิบ ทีละร้อย เพื่อเปิดทางให้ต้นหนี",
+     "image_prompt": "slashing through monsters with a katana, sparks, fire",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 13,
+     "narration": "แต่หอกเงาเล่มหนึ่ง พุ่งมาจากด้านหลัง",
+     "image_prompt": "a black shadow spear flying through smoke, night, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 14,
+     "narration": "ครามหันมารับไว้ด้วยตัวเอง แทนลูกศิษย์",
+     "image_prompt": "shielding with his body, wounded, fire background",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 15,
+     "narration": "ต้นร้องสั่งระบบ ย้อนเวลาเดี๋ยวนี้",
+     "image_prompt": "screaming, a glowing blue holographic status window floating in the air in front of him, fire",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 16,
+     "narration": "ไม่สามารถย้อนเวลาได้ ช่วงเวลานี้ถูกล็อก",
+     "image_prompt": "a glowing blue holographic status window floating in the air with a lock icon and red error text",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 17,
+     "narration": "ครามยิ้มให้เป็นครั้งสุดท้าย แล้วหลับตาลงช้าๆ",
+     "image_prompt": "smiling peacefully, eyes closing, glowing embers",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 18,
+     "narration": "เป็นครั้งแรก ที่ความตายย้อนคืนไม่ได้ ติดตามตอนต่อไป",
+     "image_prompt": "kneeling with tears, burning city at night",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    }
+   ]
+  },
+  {
+   "part": 8,
+   "title": "พลังที่แลกมา",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ตอนที่แล้ว ครามตายปกป้องต้น และระบบไม่ยอมย้อนเวลา",
+     "image_prompt": "kneeling with tears, burning city at night",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "เมืองลุกเป็นไฟ ลินยังติดอยู่ในวิหารฝั่งตะวันออก",
+     "image_prompt": "burning temple at night, flames, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 3,
+     "narration": "แล้วหน้าต่างสีฟ้า ก็เด้งขึ้นพร้อมข้อเสนอใหม่",
+     "image_prompt": "a glowing blue holographic status window floating in the air with a glowing offer button, fire in the background",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 4,
+     "narration": "อัปเกรดพิเศษ พลังราชัน แลกกับความทรงจำสิบอย่าง",
+     "image_prompt": "a glowing blue holographic status window floating in the air with a crown icon, red and blue light",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 5,
+     "narration": "ต้นไม่ลังเลแม้แต่วินาทีเดียว เขากดยอมรับ",
+     "image_prompt": "pressing a holographic button, determined, fire",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 6,
+     "narration": "พลังสีดำ ไหลทะลักออกมาจากร่างของเขา",
+     "image_prompt": "surrounded by a black and red aura, hair flowing, powering up",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 7,
+     "narration": "ดวงตาของเขา เปลี่ยนเป็นสีแดง",
+     "image_prompt": "close-up, glowing red eyes",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 8,
+     "narration": "ดาบไม้ในมือ กลายเป็นดาบสีดำสนิท",
+     "image_prompt": "close-up of a black glowing sword forming in a hand, embers",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 9,
+     "narration": "เขาเดินเข้าหากองทัพมาร คนเดียว",
+     "image_prompt": "walking alone toward a demon army, black sword, fire",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 10,
+     "narration": "ฟันเดียว ศัตรูร้อยตัวสลายเป็นเถ้า",
+     "image_prompt": "huge black sword slash wave cutting through monsters, ash, no humans",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 11,
+     "narration": "ก่อนรุ่งเช้า ไม่เหลือมารสักตัวในเมือง",
+     "image_prompt": "ruined city at dawn, smoke rising, silence, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 12,
+     "narration": "ลินวิ่งออกมาจากวิหาร แล้วหยุดชะงัก",
+     "image_prompt": "running out of a burnt temple, stopping suddenly, dawn",
+     "characters": [
+      "lin"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 13,
+     "narration": "คนที่ยืนอยู่กลางเถ้าถ่าน ไม่เหมือนต้นที่เธอรู้จัก",
+     "image_prompt": "standing in ashes, red eyes, black aura, dawn",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 14,
+     "narration": "เธอเรียกชื่อเขา แต่เขานึกอยู่นาน ว่าเธอคือใคร",
+     "image_prompt": "calling out with a hand on her chest, worried, dawn",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 15,
+     "narration": "ต้นมองมือตัวเอง มือที่เพิ่งฆ่าไปเป็นพัน",
+     "image_prompt": "looking at his trembling hands, red eyes",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 16,
+     "narration": "แล้วหน้าต่างระบบ ก็เปลี่ยนเป็นสีแดงถาวร",
+     "image_prompt": "a glowing blue holographic status window floating in the air turning red and glitching",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 17,
+     "narration": "การเปลี่ยนร่าง เจ็ดสิบเปอร์เซ็นต์",
+     "image_prompt": "a glowing red holographic warning window floating in the air with a progress bar at 70 percent",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 18,
+     "narration": "เปลี่ยนร่าง เป็นอะไร ติดตามตอนต่อไป",
+     "image_prompt": "silhouette at dawn, a shadow with horns behind him, ominous",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    }
+   ]
+  },
+  {
+   "part": 9,
+   "title": "ปราสาทจอมมาร",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ตอนที่แล้ว ต้นแลกความทรงจำกับพลัง จนระบบขึ้นว่า เปลี่ยนร่างเจ็ดสิบเปอร์เซ็นต์",
+     "image_prompt": "a glowing red holographic warning window floating in the air with a progress bar at 70 percent",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "ต้นตัดสินใจ จะไปฆ่าจอมมาร ก่อนที่จะสายเกินไป",
+     "image_prompt": "walking north on a long road, black sword on his back",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 3,
+     "narration": "ลินขอไปด้วย ทั้งที่เขาจำได้แค่ว่า เธอใจดีกับเขา",
+     "image_prompt": "walking with a cloak, determined, long road",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 4,
+     "narration": "ทุกคืนระหว่างทาง เขาฝันเห็นตัวเองในชุดเกราะสีดำ",
+     "image_prompt": "reflection of black armor in dark water, red glow, dream",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 5,
+     "narration": "และทุกเช้า ความทรงจำเรื่องโลกเก่า ก็จางลงอีกนิด",
+     "image_prompt": "waking up by a campfire at dawn, confused",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 6,
+     "narration": "เจ็ดวันต่อมา ปราสาทสีดำก็ตั้งตระหง่านอยู่ตรงหน้า",
+     "image_prompt": "huge black demon castle under a red sky, lightning, no humans",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 7,
+     "narration": "ประตูเปิดออกเอง เหมือนเจ้าของบ้านกำลังรออยู่",
+     "image_prompt": "giant castle gate opening by itself, red light inside, no humans",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 8,
+     "narration": "ห้องโถงว่างเปล่า มีแค่บัลลังก์ และคนที่นั่งอยู่บนนั้น",
+     "image_prompt": "sitting on a throne in a dark throne room, red light",
+     "characters": [
+      "demon"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 9,
+     "narration": "จอมมารลุกขึ้นช้าๆ เสียงเกราะดังก้องไปทั้งห้อง",
+     "image_prompt": "standing up from a throne, cape flowing",
+     "characters": [
+      "demon"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 10,
+     "narration": "ต้นพุ่งเข้าใส่สุดแรง",
+     "image_prompt": "dashing forward with a black sword, speed lines, throne room",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 11,
+     "narration": "แต่ทุกท่าที่เขาฟัน จอมมารรู้ล่วงหน้าหมด",
+     "image_prompt": "blocking a sword effortlessly, sparks, throne room",
+     "characters": [
+      "demon"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 12,
+     "narration": "เพราะทุกท่า เป็นท่าที่ครามสอนเขา",
+     "image_prompt": "empty training courtyard at dawn with wooden swords on a rack, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 13,
+     "narration": "ดาบของต้น กระเด็นหลุดจากมือ",
+     "image_prompt": "a black sword spinning through the air, throne room, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 14,
+     "narration": "จอมมารเอื้อมมือขึ้น จับหมวกเกราะ",
+     "image_prompt": "both hands on his horned helmet, about to remove it",
+     "characters": [
+      "demon"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 15,
+     "narration": "แล้วถอดมันออก",
+     "image_prompt": "lifting the helmet off, dramatic backlight",
+     "characters": [
+      "demon"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 16,
+     "narration": "ใต้หมวกนั้น คือใบหน้าที่ต้นเห็นในกระจกทุกวัน",
+     "image_prompt": "close-up portrait, dark throne room",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 17,
+     "narration": "แค่แก่กว่า และมีแผลเป็นยาวพาดกลางหน้า",
+     "image_prompt": "close-up, tired smirk, red light",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 18,
+     "narration": "จอมมาร คือตัวเขาเอง ติดตามตอนต่อไป",
+     "image_prompt": "shocked face, trembling, red light",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    }
+   ]
+  },
+  {
+   "part": 10,
+   "title": "ต้นคนที่เก้าสิบเก้า",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ตอนที่แล้ว จอมมารถอดหมวก ใบหน้าข้างใต้คือต้นในอนาคต",
+     "image_prompt": "close-up portrait, dark throne room",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "เขาบอกว่า ข้าคือเจ้า หลังจากตายครบเก้าสิบเก้าครั้ง",
+     "image_prompt": "sitting on the throne steps, speaking calmly",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 3,
+     "narration": "ระบบไม่ได้สร้างผู้กล้า มันสร้างจอมมาร",
+     "image_prompt": "a glowing blue holographic status window floating in the air turning into a dark crown, red glow",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 4,
+     "narration": "มันกินความสิ้นหวัง ทุกครั้งที่ผู้ใช้ตายแล้วย้อนกลับมา",
+     "image_prompt": "dark tendrils feeding on a glowing blue holographic status window floating in the air, ominous, no humans",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 5,
+     "narration": "พอความทรงจำหมด ผู้ใช้ก็ลืมว่าตัวเองเป็นใคร เหลือแค่พลัง",
+     "image_prompt": "an empty suit of black armor standing in darkness, red eyes glowing, no humans",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 6,
+     "narration": "ครามหนีมันได้ เพราะยอมทิ้งตาไปข้างหนึ่ง",
+     "image_prompt": "silhouette of a man with blue light from one eye, sepia flashback",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 7,
+     "narration": "แต่ข้าไม่ได้ทำแบบนั้น ข้าเลือกพลัง เหมือนที่เจ้าเพิ่งเลือก",
+     "image_prompt": "looking down with regret, dim red light",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 8,
+     "narration": "ต้นถามว่า แล้วทำไมยังจำได้ ว่าตัวเองคือข้า",
+     "image_prompt": "angry, shouting, throne room",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 9,
+     "narration": "จอมมารชี้ไปที่ลิน",
+     "image_prompt": "pointing a finger, red eyes, throne room",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 10,
+     "narration": "เพราะนาง",
+     "image_prompt": "standing in a throne room, surprised, pendant glowing blue",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 11,
+     "narration": "ลินกำเครื่องรางที่คอแน่น มันเรืองแสงสีฟ้า",
+     "image_prompt": "close-up of a glowing blue pendant held tightly in a hand",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 12,
+     "narration": "เธอพูดเสียงสั่น ข้าจำได้ทุกรอบ",
+     "image_prompt": "teary eyes, trembling lips, close-up",
+     "characters": [
+      "lin"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 13,
+     "narration": "ทุกครั้งที่เจ้าตาย ข้าก็ตายตาม แล้วเริ่มใหม่ไปด้วยกัน",
+     "image_prompt": "crying, ghostly afterimages of herself behind her",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 14,
+     "narration": "ข้าเห็นเจ้ากลายเป็นจอมมาร มาแล้วสองรอบ",
+     "image_prompt": "looking sadly at someone in black armor, throne room",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 15,
+     "narration": "ทุกรอบ ข้ากลับไปหาเจ้าที่ประตูเมือง แล้วแกล้งทำเป็นไม่รู้จัก",
+     "image_prompt": "kneeling, healing an injured soldier at a city gate, soft light, flashback",
+     "characters": [
+      "lin"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 16,
+     "narration": "ต้นไม่ใช่คนเดียว ที่ตายซ้ำมาตลอด",
+     "image_prompt": "looking at someone in shock, throne room",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 17,
+     "narration": "แล้วเครื่องรางนั้น ใครเป็นคนให้เธอ",
+     "image_prompt": "close-up of an eye-shaped blue crystal pendant",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 18,
+     "narration": "ลินตอบชื่อเดียว อาจารย์คราม ติดตามตอนต่อไป",
+     "image_prompt": "close-up, whispering, blue pendant glow on her face",
+     "characters": [
+      "lin"
+     ],
+     "motion": "ai"
+    }
+   ]
+  },
+  {
+   "part": 11,
+   "title": "หนึ่งครั้งสุดท้าย",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ตอนที่แล้ว ลินเผยว่าเธอจำได้ทุกรอบ ด้วยเครื่องรางของคราม",
+     "image_prompt": "close-up, blue pendant glow on her face",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "เครื่องรางนั้นทำจากตาของคราม ตาที่เคยมีระบบอยู่ข้างใน",
+     "image_prompt": "close-up of an eye-shaped blue crystal pendant, glowing ring inside",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 3,
+     "narration": "ครามรู้มาตลอด ว่าวันนี้จะมาถึง",
+     "image_prompt": "gentle smile, soft light, memory",
+     "characters": [
+      "khram"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 4,
+     "narration": "ลินบอกทางเดียวที่จะลบระบบ",
+     "image_prompt": "serious face, throne room, holding a staff",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 5,
+     "narration": "คือผู้ใช้ต้องตาย โดยไม่ยอมย้อนเวลา",
+     "image_prompt": "a glowing blue holographic status window floating in the air with a single reject button, darkness",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 6,
+     "narration": "จอมมารหัวเราะ แล้วชักดาบขึ้นอีกครั้ง",
+     "image_prompt": "laughing, raising a black sword, throne room",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 7,
+     "narration": "ข้าเคยคิดแบบนั้น แต่พอถึงวินาทีสุดท้าย ไม่มีใครกล้ากดหรอก",
+     "image_prompt": "sneering, red eyes, close-up",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 8,
+     "narration": "การต่อสู้ระหว่างต้น กับตัวเองในอนาคต เริ่มขึ้น",
+     "image_prompt": "swinging a black sword, red and blue sparks, throne room, dynamic",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 9,
+     "narration": "ทุกท่าที่ต้นคิด จอมมารคิดได้ก่อน",
+     "image_prompt": "dodging with a smirk, throne room",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 10,
+     "narration": "ต้นตายครั้งแล้วครั้งเล่า",
+     "image_prompt": "falling backward, blue light shattering around him",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 11,
+     "narration": "เก้าสิบสาม เก้าสิบ แปดสิบห้า ตัวเลขลดลงเร็วจนน่ากลัว",
+     "image_prompt": "a glowing blue holographic status window floating in the air with numbers rapidly counting down, motion blur",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 12,
+     "narration": "ทุกครั้งที่ย้อน เขาลืมอะไรบางอย่างไปอีก",
+     "image_prompt": "colors fading from his body, confused, floating memory fragments",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 13,
+     "narration": "แต่ลินอยู่ตรงนั้นทุกรอบ คอยเรียกชื่อเขาไว้",
+     "image_prompt": "reaching out and calling, blue pendant glowing",
+     "characters": [
+      "lin"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 14,
+     "narration": "รอบที่เท่าไรก็ไม่รู้ ต้นมองตาจอมมาร แล้วเห็นอะไรบางอย่าง",
+     "image_prompt": "close-up of tired red eyes",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 15,
+     "narration": "ความเหนื่อย ความเหงา ของคนที่สู้มาคนเดียวนับร้อยปี",
+     "image_prompt": "sitting alone on a throne, melancholy, dim light",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 16,
+     "narration": "ต้นวางดาบลง",
+     "image_prompt": "dropping a black sword to the floor, calm face",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 17,
+     "narration": "ระบบขึ้นเตือนสีแดงเต็มจอ จำนวนครั้งที่เหลือ หนึ่ง",
+     "image_prompt": "a huge glowing red holographic warning window floating in the air showing the number 1, alarms",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 18,
+     "narration": "ถ้าตายครั้งนี้ จะไม่มีครั้งหน้าอีกแล้ว ติดตามตอนจบ",
+     "image_prompt": "standing defenseless, eyes closed, red light",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    }
+   ]
+  },
+  {
+   "part": 12,
+   "title": "ปฏิเสธ",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ตอนที่แล้ว ต้นวางดาบลง เหลือการย้อนเวลาแค่ครั้งเดียว",
+     "image_prompt": "standing unarmed, eyes closed, red light",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "จอมมารฟันลงมาเต็มแรง",
+     "image_prompt": "slashing down with a black sword, full force, throne room",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 3,
+     "narration": "ต้นไม่หลบ",
+     "image_prompt": "standing still, calm eyes, wind",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 4,
+     "narration": "ดาบทะลุผ่านอกเขา ช้าเหมือนเวลาหยุดนิ่ง",
+     "image_prompt": "slow motion, blue light sparks, struck by a sword, dramatic",
+     "characters": [
+      "ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 5,
+     "narration": "หน้าต่างระบบเด้งขึ้นครั้งสุดท้าย ย้อนเวลา ยืนยันหรือไม่",
+     "image_prompt": "a glowing blue holographic status window floating in the air with two buttons, darkness",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 6,
+     "narration": "ต้นนึกถึงหน้าแม่ไม่ออก นึกถึงโลกเก่าไม่ออกแล้ว",
+     "image_prompt": "eyes half closed, fading, soft light",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 7,
+     "narration": "แต่เขายังจำได้ ว่าลินใจดีกับเขา ตั้งแต่วันแรก",
+     "image_prompt": "smiling kindly at a city gate, warm light, memory",
+     "characters": [
+      "lin"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 8,
+     "narration": "จำได้ว่าครามสอนเขา ทั้งที่รู้ว่าเขาอาจกลายเป็นศัตรู",
+     "image_prompt": "holding out a wooden practice sword, dawn, memory",
+     "characters": [
+      "khram"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 9,
+     "narration": "แค่นั้นก็พอแล้ว",
+     "image_prompt": "faint gentle smile, eyes closing",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 10,
+     "narration": "ต้นกด ปฏิเสธ",
+     "image_prompt": "close-up of a finger pressing a glowing reject button on a glowing blue holographic status window floating in the air",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 11,
+     "narration": "หน้าต่างสีฟ้าแตกออกเป็นเสี่ยงๆ เหมือนกระจก",
+     "image_prompt": "a blue holographic window shattering into glowing shards, no humans",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 12,
+     "narration": "จอมมารยิ้ม เป็นครั้งแรกในรอบร้อยปี",
+     "image_prompt": "smiling peacefully, armor cracking with light",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 13,
+     "narration": "แล้วร่างของเขา ก็ค่อยๆ สลายเป็นแสง",
+     "image_prompt": "dissolving into glowing particles, peaceful",
+     "characters": [
+      "future_ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 14,
+     "narration": "ต้นลืมตาขึ้นมาอีกครั้ง บนพื้นหญ้า ใต้ดวงจันทร์สองดวง",
+     "image_prompt": "waking up on the grass, two moons in the sky, peaceful",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 15,
+     "narration": "ไม่มีหน้าต่าง ไม่มีตัวเลข เลเวลหนึ่ง เหมือนวันแรก",
+     "image_prompt": "looking at his empty hand, smiling, moonlight",
+     "characters": [
+      "ton"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 16,
+     "narration": "แต่ครั้งนี้ มีคนนั่งรอเขาอยู่ข้างๆ",
+     "image_prompt": "sitting on the grass, smiling, moonlight, two moons",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 17,
+     "narration": "ลินยิ้มให้เขา แล้วจู่ๆ ก็ชะงัก",
+     "image_prompt": "smile freezing, blue light reflecting on her face, moonlight",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 18,
+     "narration": "เพราะตรงหน้าเธอ มีหน้าต่างสีฟ้าเด้งขึ้นมา ยินดีต้อนรับ ผู้ถูกเลือก",
+     "image_prompt": "a glowing blue holographic status window floating in the air in front of a surprised girl, night, ominous",
+     "characters": [
+      "lin"
+     ],
+     "motion": "parallax"
+    }
+   ]
+  }
+ ],
+ "outline": [
+  {
+   "part": 4,
+   "title": "ถ้ำก็อบลิน",
+   "summary": "ภารกิจแรกกับลิน ต้นตายในถ้ำ 7 ครั้งจนจำทางได้ทุกซอก ชนะด้วยแผน ไม่ใช่พลัง แต่ตอนจบลินถูกธนูยิงตายต่อหน้า"
+  },
+  {
+   "part": 5,
+   "title": "ราคาของการย้อนเวลา",
+   "summary": "ย้อนกลับไปช่วยลินสำเร็จ แต่ต้นเริ่มจำหน้าแม่ไม่ได้ ระบบไม่เคยบอกว่าทุกการย้อนจะกินความทรงจำ 1 อย่าง"
+  },
+  {
+   "part": 6,
+   "title": "ผู้กล้าเมื่อร้อยปีก่อน",
+   "summary": "ครามเล่าตำนานผู้กล้าที่ไม่เคยตาย และหายไปก่อนจอมมารจะปรากฏตัว หักมุมแรก: ครามเปิดผ้าปิดตา ตาข้างนั้นมีวงแหวนสีฟ้าแบบเดียวกับระบบ"
+  },
+  {
+   "part": 7,
+   "title": "อาจารย์คือผู้ใช้คนก่อน",
+   "summary": "ครามเคยเป็นผู้ใช้ระบบ เขาควักตาทิ้งเพื่อตัดขาดมัน ระบบบอกต้นว่าครามโกหก กองทัพมารบุกเมือง ครามตายปกป้องต้น และย้อนเวลาไม่ได้ เพราะเวลานั้นถูกล็อก"
+  },
+  {
+   "part": 8,
+   "title": "พลังที่แลกมา",
+   "summary": "ต้นรับข้อเสนอของระบบ อัปเกรดเป็นพลังราชัน ชนะกองทัพมารคนเดียว แต่ลินกลัวดวงตาสีแดงของเขา หน้าต่างระบบเปลี่ยนเป็น: การเปลี่ยนร่าง 70%"
+  },
+  {
+   "part": 9,
+   "title": "ปราสาทจอมมาร",
+   "summary": "เดินทางไปปราสาทจอมมารกับลิน ฝันเห็นตัวเองในชุดเกราะดำทุกคืน จบด้วยหักมุมใหญ่: จอมมารถอดหมวก หน้าคือต้นที่โตแล้ว มีแผลเป็น"
+  },
+  {
+   "part": 10,
+   "title": "ต้นคนที่ 99",
+   "summary": "จอมมารคือต้นจากรอบที่ใช้ครบ 99 ครั้ง ระบบไม่ได้สร้างผู้กล้า แต่สร้างจอมมาร มันกินความสิ้นหวังของผู้ใช้ที่ตายซ้ำจนลืมว่าตัวเองเป็นใคร หักมุมซ้อน: ลินจำได้ทุกรอบเช่นกัน"
+  },
+  {
+   "part": 11,
+   "title": "หนึ่งครั้งสุดท้าย",
+   "summary": "ลินจำได้เพราะเครื่องรางที่ทำจากตาของคราม ทางเดียวที่จะลบระบบคือตายโดยไม่ยอมย้อนเวลา ต้นสู้กับตัวเองในอนาคต ตัวเลขเหลือ 1"
+  },
+  {
+   "part": 12,
+   "title": "ปฏิเสธ",
+   "summary": "ต้นกดปฏิเสธการย้อนเวลา ระบบแตกสลาย ต้นในอนาคตยิ้มแล้วจางหาย ต้นตื่นขึ้นมาเลเวลหนึ่งอีกครั้ง แต่เป็นอิสระ หักมุมปิดท้าย: หน้าต่างสีฟ้าเด้งขึ้นตรงหน้าลิน"
+  }
+ ]
+}

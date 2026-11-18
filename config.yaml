@@ -1,0 +1,49 @@
+channel:
+  niche: ""
+  tone: ""
+  audience: ""
+  language: th
+video:
+  width: 1080
+  height: 1920
+  fps: 30
+  min_seconds: 25
+  max_seconds: 60
+llm:
+  provider: gemini
+  model: gemini-3.6-flash   # 2026-11-16: 3.7/3.8 ตอบช้า 3-5 นาทีในบัญชีฟรี, 2.5 ปิดแล้ว
+tts:
+  provider: edge
+  voice: th-TH-NiwatNeural   # เลือกจาก edge-tts --list-voices (Premwadee ใช้ไม่ได้ ณ 2026-11-12)
+  rate: "+0%"
+images:
+  provider: pixabay
+  media: video     # video = คลิปสั้นก่อน (ไม่มีค่อยใช้ภาพนิ่ง), photo = ภาพนิ่งอย่างเดียว
+youtube:
+  privacy: private
+  category_id: "22"
+  mark_synthetic: true
+  made_for_kids: false   # YouTube บังคับให้ระบุ
+music:
+  volume: 0.08   # ความดังเพลงเทียบกับเสียงพากย์ (เพลงสุ่มจาก assets/music/*.mp3 ทีละคลิป)
+story:
+  series:               # เรื่องที่ทำต่อเนื่อง (/story และตัวตั้งเวลารายวันหยิบตอนถัดไปจากไฟล์แรกที่ยังไม่ครบ)
+    - drafts/stories/system_loop.json
+  models_dir: /mnt/d/autovideo_models/hf   # โมเดล AI (~35 GB) เก็บไว้ไดรฟ์ D: เพราะ C: ใกล้เต็ม
+  max_seconds: 90       # ความยาวสูงสุดต่อตอน
+  image_model:          # โมเดลวาดภาพ (ต้องเป็นตระกูล SDXL)
+    repo: cagliostrolab/animagine-xl-4.0   # แนวอนิเมะ สัดส่วนดี (OpenRAIL++) / stabilityai/stable-diffusion-xl-base-1.0 + lightning: true = เร็วแต่สัดส่วนเพี้ยน
+    lightning: false
+    steps: 28
+    cfg: 5
+    negative: "lowres, bad anatomy, bad hands, bad proportions, deformed, extra fingers, missing fingers, extra limbs, text, watermark, signature, worst quality, low quality, blurry, chibi"
+  judge: gemini        # Gemini ดูภาพเทียบบทแล้วเลือก/สั่งวาดใหม่ (ฟรีตามโควตา) / ลบบรรทัดนี้ = ใช้ CLIP เลือก
+  candidates: 3        # วาดกี่แบบต่อช็อต (เลือกภาพที่ดีที่สุดได้ก่อนทำให้ขยับ)
+  ai_all: true         # ทุกช็อตขยับด้วย AI (นานขึ้น ~2 เท่า แต่ลื่นกว่า) / false = เฉพาะช็อต motion: ai
+  ai_motion: true       # false = ใช้ภาพ 2.5 มิติทุกช็อต (เร็วกว่ามาก)
+limits:
+  max_jobs_per_day: 2
+  max_retries: 3
+worker:
+  poll_seconds: 5         # ความถี่ที่ตัวทำงานเช็กงานใหม่
+  retry_base_seconds: 30  # ล้มแล้วรอ 30, 60, 120 วินาทีก่อนลองใหม่

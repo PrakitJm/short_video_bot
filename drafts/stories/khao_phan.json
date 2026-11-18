@@ -1,0 +1,506 @@
+{
+ "series": "ข้าวพันธุ์ของพ่อ",
+ "style": "flat 2D storybook cartoon, bold outlines, warm earthy colors, rural Thai village",
+ "characters": {
+  "thongdee": {
+   "look": "Thai farmer man in his early 20s, short black hair, tanned skin, faded indigo mor-hom shirt, black knee-length farmer trousers, red-and-white checkered pha khao ma cloth tied at the waist, barefoot",
+   "tag": "22-year-old Thai man, short black hair, indigo shirt, red checkered waist cloth"
+  },
+  "khaohom": {
+   "look": "Thai girl about 8 years old, black bob haircut, round face, plain light-pink blouse, brown sarong, barefoot",
+   "tag": "8-year-old Thai girl, black bob hair, pink blouse"
+  },
+  "father": {
+   "look": "thin elderly Thai farmer in his 60s, grey stubble, white sleeveless undershirt, gentle tired face",
+   "tag": "thin sick old Thai man, grey stubble, white undershirt"
+  },
+  "boonma": {
+   "look": "plump Thai rice merchant in his 50s, slicked-back black hair, thin mustache, cream silk shirt, gold chain necklace, carries a cloth money pouch",
+   "tag": "fat middle-aged Thai merchant, small mustache, cream shirt, gold necklace"
+  }
+ },
+ "parts": [
+  {
+   "part": 1,
+   "title": "ข้าวพันธุ์ของพ่อ",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ปีนั้น ฝนไม่ตกเลยทั้งปี นาทุกแปลงในหมู่บ้านแตกระแหง",
+     "image_prompt": "wide view of cracked dry rice paddies and wooden stilt houses under a harsh sun, drought",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "ทองดี ลูกชาวนาหนุ่ม ต้องดูแลพ่อที่ป่วยหนัก กับน้องสาวตัวเล็ก",
+     "image_prompt": "a thin old man lying sick on a sleeping mat inside a dim wooden house, his son kneeling beside him",
+     "characters": [
+      "father"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 3,
+     "narration": "คืนหนึ่ง พ่อเรียกเขาเข้าไปใกล้ แล้วชี้ไปที่ใต้ถุนบ้าน",
+     "image_prompt": "night, an old man lying on a mat, weakly pointing down at the floor, oil lamp light",
+     "characters": [
+      "father"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 4,
+     "narration": "ตรงนั้น มีกระสอบข้าวพันธุ์อยู่ใบเดียว ที่พ่อเก็บไว้ปลูกปีหน้า",
+     "image_prompt": "one burlap sack of rice seed on the dirt under a wooden stilt house, warm lamp light",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 5,
+     "narration": "พ่อบอกว่า หิวแค่ไหนก็ห้ามกิน",
+     "image_prompt": "close-up portrait of a sick old man with a serious face, speaking, holding a hand",
+     "characters": [
+      "father"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 6,
+     "narration": "เพราะถ้ากินหมด ปีหน้าเราจะไม่มีอะไรเหลือเลย",
+     "image_prompt": "close-up portrait of a young man with tears in his eyes, nodding, lamp light",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 7,
+     "narration": "ไม่กี่วันต่อมา พ่อก็จากไปอย่างสงบ",
+     "image_prompt": "an empty sleeping mat with a folded blanket, incense smoke, quiet dawn light, sad mood",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 8,
+     "narration": "ข้าวในยุ้งหมดลงทีละวัน คนทั้งหมู่บ้านเริ่มอดอยาก",
+     "image_prompt": "thin hungry villagers sitting with empty bowls in front of wooden stilt houses",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 9,
+     "narration": "แล้ววันหนึ่ง นายบุญมา พ่อค้าข้าวจากในเมือง ก็มาถึง",
+     "image_prompt": "a fat merchant riding an ox cart loaded with rice sacks into a village",
+     "characters": [
+      "boonma"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 10,
+     "narration": "เขาเดินดูทุกบ้าน จนมาหยุดที่ใต้ถุนบ้านของทองดี",
+     "image_prompt": "a fat merchant bending down, peering at a rice sack under a stilt house, curious",
+     "characters": [
+      "boonma"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 11,
+     "narration": "นายบุญมายื่นถุงเงิน ขอแลกกับข้าวพันธุ์กระสอบนั้น",
+     "image_prompt": "a fat merchant holding out a brown cloth money pouch with both hands, offering it",
+     "characters": [
+      "boonma"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 12,
+     "narration": "เงินนั่น มากพอจะซื้อข้าวกินได้ทั้งเดือน",
+     "image_prompt": "close-up of silver coins spilling from a brown cloth pouch in a hand",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 13,
+     "narration": "ทองดีมองถุงเงิน แล้วมองกระสอบข้าว เขานึกถึงคำของพ่อ",
+     "image_prompt": "a young man looking down, torn and thinking hard, standing next to a rice sack",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 14,
+     "narration": "เขาส่ายหน้า แล้วบอกว่า ข้าวกระสอบนี้ไม่ขาย",
+     "image_prompt": "a young man shaking his head firmly, arms crossed, standing in front of a rice sack",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 15,
+     "narration": "นายบุญมายิ้มเย็นๆ แล้วพูดว่า เดี๋ยวเจ้าก็ต้องขายอยู่ดี",
+     "image_prompt": "a fat merchant walking away, looking back over his shoulder with a cold smirk",
+     "characters": [
+      "boonma"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 16,
+     "narration": "คืนนั้น ข้าวหอม น้องสาวของทองดี นอนตัวร้อนจัด",
+     "image_prompt": "night, a little girl lying down sick under a blanket, wet cloth on her forehead, oil lamp",
+     "characters": [
+      "khaohom"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 17,
+     "narration": "เธอกระซิบเบาๆ ว่า พี่ หนูหิว",
+     "image_prompt": "close-up of a sick little girl lying on a pillow, eyes half closed, whispering",
+     "characters": [
+      "khaohom"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 18,
+     "narration": "ทองดีนั่งมองกระสอบข้าวพันธุ์ทั้งคืน เขาจะเลือกอะไร ติดตามตอนที่สอง",
+     "image_prompt": "a young man sitting alone in the dark, staring at a rice sack, a flickering oil lamp",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "ai"
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "title": "คนขโมยในคืนเดือนมืด",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ตอนที่แล้ว ทองดีไม่ยอมขายข้าวพันธุ์ ทั้งที่น้องสาวกำลังป่วย",
+     "image_prompt": "young man standing guard by the seed rice sack at dawn",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "รุ่งเช้า เขาแบกจอบเข้าป่า ขุดหาหัวมันกับหน่อไม้",
+     "image_prompt": "young man digging for wild yams in a dry forest with a hoe",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 3,
+     "narration": "เขาต้มแกงให้น้องสาวกินทีละคำ จนไข้ค่อยๆ ลดลง",
+     "image_prompt": "brother spoon-feeding soup to his little sister, she smiles weakly",
+     "characters": [
+      "thongdee",
+      "khaohom"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 4,
+     "narration": "แต่ชาวบ้านกลับหัวเราะเยาะ ว่าเขาโง่ มีข้าวแต่ไม่ยอมกิน",
+     "image_prompt": "villagers pointing and laughing at the young farmer",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 5,
+     "narration": "บางคนถึงกับมาขอแบ่งข้าวพันธุ์ไปหุง",
+     "image_prompt": "hungry villagers holding out bowls toward the seed rice sack",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 6,
+     "narration": "ทองดีแบ่งหัวมันให้ทุกคน แต่ข้าวพันธุ์ เขาไม่ให้ใครแตะ",
+     "image_prompt": "young farmer handing out yams to villagers while blocking the sack",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 7,
+     "narration": "ในขณะเดียวกัน นายบุญมาก็ขึ้นราคาข้าวในตลาดทุกวัน",
+     "image_prompt": "merchant at a market stall writing higher prices on a board, sacks behind him",
+     "characters": [
+      "boonma"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 8,
+     "narration": "ใครไม่มีเงิน ก็ต้องเอาที่นามาแลกข้าว",
+     "image_prompt": "poor farmer handing over a land deed paper to the merchant for a small bag of rice",
+     "characters": [
+      "boonma"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 9,
+     "narration": "ที่นาในหมู่บ้าน ค่อยๆ ตกเป็นของนายบุญมาทีละแปลง",
+     "image_prompt": "merchant standing on a dry field planting wooden ownership signs",
+     "characters": [
+      "boonma"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 10,
+     "narration": "เหลือแค่นาของทองดี ที่ยังไม่ยอมขาย",
+     "image_prompt": "young farmer standing alone in his own dry paddy at sunset",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 11,
+     "narration": "คืนหนึ่ง ฟ้ามืดสนิท ไม่มีแม้แต่แสงจันทร์",
+     "image_prompt": "moonless night over the village, dark stilt houses, no lights",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 12,
+     "narration": "ทองดีได้ยินเสียงฝีเท้าเบาๆ อยู่ใต้ถุนบ้าน",
+     "image_prompt": "young man waking up on his mat, listening, eyes wide",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 13,
+     "narration": "เขาคว้าตะเกียงแล้ววิ่งลงไปดู",
+     "image_prompt": "young man rushing down the wooden ladder holding an oil lamp",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 14,
+     "narration": "มีเงาคนวิ่งหายเข้าไปในความมืด",
+     "image_prompt": "a dark silhouette running away into the night carrying a sack",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 15,
+     "narration": "และตรงที่เคยวางกระสอบข้าวพันธุ์",
+     "image_prompt": "lamp light revealing the spot under the house",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 16,
+     "narration": "ตอนนี้ เหลือเพียงพื้นดินว่างเปล่า",
+     "image_prompt": "empty patch of dirt with drag marks where a sack used to be",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 17,
+     "narration": "ข้าวพันธุ์ของพ่อ หายไปแล้ว",
+     "image_prompt": "young man on his knees, shocked, lamp on the ground",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 18,
+     "narration": "ใครเป็นคนเอาไป ติดตามตอนจบ",
+     "image_prompt": "footprints leading away into the dark toward a distant warehouse",
+     "characters": [],
+     "motion": "parallax"
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "title": "ฝนแรก",
+   "shots": [
+    {
+     "id": 1,
+     "narration": "ตอนที่แล้ว ข้าวพันธุ์ของพ่อ หายไปกลางดึก",
+     "image_prompt": "empty spot under the stilt house at night",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 2,
+     "narration": "ทองดีเดินตามรอยเท้าบนดิน จนถึงรุ่งสาง",
+     "image_prompt": "young man following footprints on a dirt road at dawn",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 3,
+     "narration": "รอยเท้านั้น พาเขามาถึงหน้าโกดังของนายบุญมา",
+     "image_prompt": "young man standing before a big wooden rice warehouse, fists clenched",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 4,
+     "narration": "แต่ก่อนจะเคาะประตู ข้าวหอมก็วิ่งตามมาดึงแขนไว้",
+     "image_prompt": "little girl running up and grabbing her brother's arm",
+     "characters": [
+      "khaohom",
+      "thongdee"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 5,
+     "narration": "เธอกระซิบว่า พี่ ข้าวพันธุ์อยู่กับหนู",
+     "image_prompt": "little girl whispering to her surprised brother",
+     "characters": [
+      "khaohom",
+      "thongdee"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 6,
+     "narration": "เมื่อคืนหนูเห็นคนแอบมา เลยลากกระสอบไปซ่อนในโอ่งหลังบ้าน",
+     "image_prompt": "flashback, little girl dragging a sack into a big clay water jar at night",
+     "characters": [
+      "khaohom"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 7,
+     "narration": "ส่วนที่ขโมยแบกไป เป็นแค่กระสอบแกลบที่หนูวางไว้แทน",
+     "image_prompt": "merchant inside his warehouse opening a sack full of rice husks, furious",
+     "characters": [
+      "boonma"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 8,
+     "narration": "ทองดีกอดน้องสาวไว้แน่น น้ำตาไหลโดยไม่รู้ตัว",
+     "image_prompt": "brother hugging his little sister tightly, both crying happily",
+     "characters": [
+      "thongdee",
+      "khaohom"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 9,
+     "narration": "บ่ายวันนั้น ฟ้ามืดครึ้ม แล้วฝนแรกของปีก็ตกลงมา",
+     "image_prompt": "first rain pouring over the dry village, villagers looking up joyfully",
+     "characters": [],
+     "motion": "ai"
+    },
+    {
+     "id": 10,
+     "narration": "ทองดีหว่านข้าวพันธุ์ลงนา จนหมดกระสอบ",
+     "image_prompt": "young farmer sowing rice seeds into a wet muddy paddy, rain",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 11,
+     "narration": "ไม่นาน ต้นกล้าสีเขียวก็ขึ้นเต็มแปลง",
+     "image_prompt": "bright green rice seedlings filling one paddy field",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 12,
+     "narration": "แต่นาของนายบุญมา ว่างเปล่า เพราะไม่มีใครเหลือข้าวพันธุ์เลย",
+     "image_prompt": "merchant staring at his many empty muddy fields",
+     "characters": [
+      "boonma"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 13,
+     "narration": "ถึงหน้าเกี่ยว นาของทองดีเป็นแปลงเดียวที่เหลืองทอง",
+     "image_prompt": "one golden ripe rice field among empty brown fields, young farmer harvesting",
+     "characters": [
+      "thongdee"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 14,
+     "narration": "แม้แต่นายบุญมา ก็ต้องก้มหน้ามาขอข้าวพันธุ์จากเขา",
+     "image_prompt": "merchant bowing his head humbly in front of the young farmer",
+     "characters": [
+      "boonma",
+      "thongdee"
+     ],
+     "motion": "ai"
+    },
+    {
+     "id": 15,
+     "narration": "ทองดีแบ่งให้ แต่ขอให้คืนที่นาให้ชาวบ้านทุกแปลง",
+     "image_prompt": "merchant handing land deed papers back to villagers, young farmer watching",
+     "characters": [
+      "boonma",
+      "thongdee"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 16,
+     "narration": "แล้วเขาก็แจกข้าวพันธุ์ให้ทุกบ้าน เอาไปปลูกต่อ",
+     "image_prompt": "young farmer and his sister handing small bags of seed rice to smiling villagers",
+     "characters": [
+      "thongdee",
+      "khaohom"
+     ],
+     "motion": "parallax"
+    },
+    {
+     "id": 17,
+     "narration": "ปีต่อมา ทุ่งนาทั้งหมู่บ้าน ก็กลับมาเขียวอีกครั้ง",
+     "image_prompt": "wide shot of lush green rice fields around the village, blue sky",
+     "characters": [],
+     "motion": "parallax"
+    },
+    {
+     "id": 18,
+     "narration": "ของที่ยอมอดไว้วันนี้ คือข้าวที่เลี้ยงทุกคนในวันหน้า",
+     "image_prompt": "brother and sister standing in the green field at sunset, looking at the horizon",
+     "characters": [
+      "thongdee",
+      "khaohom"
+     ],
+     "motion": "ai"
+    }
+   ]
+  }
+ ]
+}

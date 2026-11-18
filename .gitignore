@@ -1,0 +1,10 @@
+.env
+data/
+client_secret*.json
+token*.json
+*.token
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+assets/music/*.mp3
